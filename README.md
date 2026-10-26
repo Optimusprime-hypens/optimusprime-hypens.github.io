@@ -6,3 +6,6 @@ i am awesome
 
 ## JavaScript Site
 https://optimusprime-hypens.github.io/JavaScriptprime/
+
+## JavaScriptmutlipe Site
+https://github.com/Optimusprime-hypens/JavaScriptmultipeprime
