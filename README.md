@@ -8,4 +8,4 @@ i am awesome
 https://optimusprime-hypens.github.io/JavaScriptprime/
 
 ## JavaScriptmutlipe Site
-https://github.com/Optimusprime-hypens/JavaScriptmultipeprime
+https://optimusprime-hypens.github.io/JavaScriptmultipeprime/
